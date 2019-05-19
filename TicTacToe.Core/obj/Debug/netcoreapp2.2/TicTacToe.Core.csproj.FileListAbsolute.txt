@@ -1,0 +1,8 @@
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\bin\Debug\netcoreapp2.2\TicTacToe.Core.deps.json
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\bin\Debug\netcoreapp2.2\TicTacToe.Core.dll
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\bin\Debug\netcoreapp2.2\TicTacToe.Core.pdb
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\obj\Debug\netcoreapp2.2\TicTacToe.Core.csproj.CoreCompileInputs.cache
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\obj\Debug\netcoreapp2.2\TicTacToe.Core.AssemblyInfoInputs.cache
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\obj\Debug\netcoreapp2.2\TicTacToe.Core.AssemblyInfo.cs
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\obj\Debug\netcoreapp2.2\TicTacToe.Core.dll
+C:\Users\EMRAHB\source\repos\TicTacToe\TicTacToe.Core\obj\Debug\netcoreapp2.2\TicTacToe.Core.pdb
